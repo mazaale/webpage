@@ -1,0 +1,35 @@
+a {
+	text-decoration:none;
+	color:#191970;
+
+		}
+
+#chapeau tr td:hover {
+				background:rgba(255,255,255,1);
+				}
+#slogg {
+		
+		font-size:24;
+		}
+* {
+	font-family: 'Playfair Display SC', serif;
+	color:#191970;
+	}
+
+#chapeau4 tr td:hover {
+				background:rgba(176,196,222,1);
+				}
+#chapeau1 tr td:hover {
+				background:rgba(176,196,222,1);
+				}
+
+ #chapeau2 tr td:hover {
+				background:rgba(176,196,222,1);
+				}
+
+ #chapeau3 tr td:hover {
+				background:rgba(176,196,222,1);
+				}
+em {
+	 font-style:normal;
+	}
